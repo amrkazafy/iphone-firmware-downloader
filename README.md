@@ -104,8 +104,8 @@ For identical firmware shared across variants, files are **merged** and identifi
 To enable notifications, create a bot with [@BotFather](https://t.me/BotFather) and create a `.env` file:
 
 ```env
-BOT_TOKEN=8116274908:AAFB8hSVtisRPM2mfNDkMLa3IL9Xy3rt4jw
-CHAT_ID=-5219691922
+BOT_TOKEN=
+CHAT_ID=
 ```
 
 The bot sends a short summary like this when the download finishes:
