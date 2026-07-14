@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Firmware IPSW files
+*.ipsw
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Download log
+download_log.txt
+
+# Tools (aria2c)
+.tools/
